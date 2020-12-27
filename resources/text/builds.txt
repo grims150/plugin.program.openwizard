@@ -1,6 +1,6 @@
 id="plugin.program.aftermath"
 version="0.4.5"
-zip="url.to.wizard"
+zip="https://github.com/grims150/plugin.program.openwizard"
 
 name="Example Build 1"
 version="1.0"
